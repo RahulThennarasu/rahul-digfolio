@@ -344,9 +344,9 @@ section {
 
 article {
   display: flex;
-  width: 25rem;
+  width: 10rem;
   justify-content: space-around;
-  gap: 0.5rem;
+  gap: 2.5rem;
 }
 
 article .icon {
